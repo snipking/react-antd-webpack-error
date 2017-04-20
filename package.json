@@ -1,0 +1,32 @@
+{
+  "name": "react-antd-webpack",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "antd",
+    "webpack"
+  ],
+  "author": "Derek.Chia",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "es6-shim": "^0.35.3",
+    "react-devtools": "^2.0.12",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "@types/react": "^15.0.21",
+    "@types/react-dom": "^0.14.23",
+    "antd": "^2.9.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.1.1"
+  }
+}
